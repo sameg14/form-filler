@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Form Filler POC</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -39,7 +39,9 @@
         <div class="container">
             <div class="content">
                 <div class="title">Form Filler POC</div>
-                <a href="/form">Download Filled form</a>
+                <a href="LogixAsForm2.pdf">Download Original Form</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="filledForm.pdf">Download Filled Form</a>
             </div>
         </div>
     </body>
