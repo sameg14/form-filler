@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/poc":{"guestpath":"/var/www/poc","hostpath":"/Users/spatel/htdocs/form-filler","disabled":false,"__vagrantfile":true}}}
